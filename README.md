@@ -1,6 +1,7 @@
 # Resources for Systematic Literature Review on the Sustainability of Vertical Farming 
 
 ## Tools and Sources used for the Literature review
+
 The literature review (LR) was performed following the steps in the guideline of Silva and Neiva [1]. Inspired by [2], a few research tools were used for organizing and searching.
 
 ### Tools
@@ -24,22 +25,23 @@ The literature review (LR) was performed following the steps in the guideline of
 
 
 ## Research Question, Design and Search Strings
-- Research Question of the LR: How sustainable is producing different goods in vertical farming in comparison to open-field farming in the same climate zone as Germany (assessed in life cycle assessments to measure the environmental impact)?
-- Research Design for LR search
+
+- *Research Question of the LR:* How sustainable is producing different goods in vertical farming in comparison to open-field farming in the same climate zone as Germany (assessed in life cycle assessments to measure the environmental impact)?
+- *Research Design for LR search*
     - Life cycle assessments (LCAs) are preferred to answer the question of environmental sustainability in the research design, however, social and economic sustainability will be considered as well. Therefore a broad definition of sustainability in the search strings is needed
     - Since there is not enough data for Germany, data from the same climate zone as Germany is considered (and explained in more detail in the following)
     - The term "open-field farming" is sometimes also specified as "conventional farming" or other versions. However, in English, for only the term "farming" there are to many results that do not fit the research design. In German, the term "Landwirtschaft" is fitting.
-- Search Strings
+- *Search Strings*
     - English: ("Life Cycle Assessment" OR Sustainability OR Sustainable) AND ("Conventional farming“ OR "organic farming" OR "open-field farming") AND ("Vertical Farming" OR "Vertical Farm" OR "Plant Factory")
     - German: (Nachhaltigkeit OR Nachhaltig) AND Landwirtschaft AND ("Vertical farming" OR "Vertical Farm")
 
       
 ## Search Engine Results
-- Choice of Search Engines
-- Manually added paper
+
+- *Manually added paper*
     - manually, [Umweltbundesamt](https://www.umweltbundesamt.de/) and [OpenAgrar](https://www.openagrar.de/content/index.xml) were checked, 10 papers from OpenAgrar were added to Cadima
     - Also, in the process and for example through ResearchRabbit, papers found manually matching the inclusion and exclusion criteria will be added in the process
-- Results
+- *Results*
 1. English search string (execution 24.8)
    
 | Search Engine  | Number of results | 
@@ -68,11 +70,20 @@ Note: Google scholar results were limited to 1000 by the tool Publish or Perish,
 | [Scopus](https://www.scopus.com/home.uri)    | 15    |
 | [ScienceDirect](https://www.sciencedirect.com/)      | 118     |
 | [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)      | 1     |
+| [OpenAgrar]((https://www.openagrar.de/content/index.xml)     | 10     |
+| Manually added    | 10     |
+
+Note: The manually added papers were already checked to match the inclusion or exclusion criteria and are not inserted in Cadima (yet)
 
 ## Cadima work flow
-- Defining Inclusion and exclusion criteria
-    - Title screening
-    - Abstract screening
-    - Fulltext screening
+Cadima is helpful organizing and rating a huge amount of papers. If you want to have a closer look how Cadima is structured, you can find a trail version [here](https://test.cadima.info/index.php/area/evidenceSynthesisDatabase).
+
+After creating a project matching your research design, in this case a systematic literature review, the next steps are:
+
+1. Step: Uploading results from search engine search
+2. Defining Inclusion and exclusion criteria
+- Title screening
+- Abstract screening
+- Fulltext screening
 
 ## Finishing the LR
