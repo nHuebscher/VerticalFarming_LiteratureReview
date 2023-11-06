@@ -35,8 +35,41 @@ The literature review (LR) was performed following the steps in the guideline of
 
       
 ## Search Engine Results
-- Manually added paper found using ResearchRabbit and checking Umweltbundesamt and Thünen-Institut
+- Choice of Search Engines
+- Manually added paper
+    - manually, [Umweltbundesamt](https://www.umweltbundesamt.de/) and [OpenAgrar](https://www.openagrar.de/content/index.xml) were checked, 10 papers from OpenAgrar were added to Cadima
+    - Also, in the process and for example through ResearchRabbit, papers found manually matching the inclusion and exclusion criteria will be added in the process
+- Results
+1. English search string (execution 24.8)
+| Search Engine  | Number of results | 
+|:---------:|:---------:|
+| [Google Scholar](https://scholar.google.com/)      | 1000     |
+| [Scopus](https://www.scopus.com/home.uri)    | 15    |
+| [ScienceDirect](https://www.sciencedirect.com/)      | 118     |
+| [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)      | 1     |
 
-## Inclusion and exclusion criteria
+Note: Google scholar results were limited to 1000 by the tool Publish or Perish, the results used to be 1760
 
-## Next steps
+2. German search string (execution 12.9)
+| Search Engine  | Number of results | 
+|:---------:|:---------:|
+| [Google Scholar](https://scholar.google.com/)      | 191     |
+| [Scopus](https://www.scopus.com/home.uri)    | 0    |
+| [ScienceDirect](https://www.sciencedirect.com/)      | 0     |
+| [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)      | 0     |
+
+3. In Total
+| Search Engine  | Number of results | 
+|:---------:|:---------:|
+| [Google Scholar](https://scholar.google.com/)      | 1191     |
+| [Scopus](https://www.scopus.com/home.uri)    | 15    |
+| [ScienceDirect](https://www.sciencedirect.com/)      | 118     |
+| [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)      | 1     |
+
+## Cadima work flow
+- Defining Inclusion and exclusion criteria
+    - Title screening
+    - Abstract screening
+    - Fulltext screening
+
+## Finishing the LR
