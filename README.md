@@ -1,11 +1,11 @@
 # Resources for Systematic Literature Review on the Sustainability of Vertical Farming 
 
 In this repository, you will find 
-- which tools and sources were used for the Literature Review
-- the research question, design and search strings used
-- the search engine results, also uploaded as .csv file per search engine
-- in detail how the tool Cadima was used
-- the inclusion and exclusion details for the title screening, the abstract screening and the fulltext screening and their results as .csv file per step
+- which [tools and sources](#tools-and-sources-used-for-the-literature-review) were used for the Literature Review
+- the [research question, design and search strings](#research-question-design-and-search-strings) used
+- the [search engine results](#search-engine-results), also uploaded as .csv file per search engine
+- in detail [how the tool Cadima was used](#cadima-work-flow)
+- the [inclusion and exclusion criteria](#inclusion-and-exlusion-criteria) for the title screening, the abstract screening and the fulltext screening and their results as .csv file per step
 
 
 ## Tools and Sources used for the Literature review
@@ -52,9 +52,9 @@ How sustainable is producing different goods in vertical farming in comparison t
 
 ### Manually added paper
 Paper were added manually in three ways:
-1. [OpenAgrar](https://www.openagrar.de/content/index.xml) is a joint repository of different research institutes and others in the scope of the Federal Ministry of Food and Agriculture: 10 papers from OpenAgrar found to match the [title screening criteria](#Cadima-work-flow) were added to Cadima
+1. [OpenAgrar](https://www.openagrar.de/content/index.xml) is a joint repository of different research institutes and others in the scope of the Federal Ministry of Food and Agriculture: 10 papers from OpenAgrar found to match the [title screening criteria](#Inclusion-and-exlusion-criteria) were added to Cadima
 2. [Umweltbundesamt](https://www.umweltbundesamt.de/) was checked, but papers matching the title screening criteria were already found in the Cadima database of matched searches
-3. Papers found manually and through ResearchRabbit matching the [inclusion and exclusion criteria](#Cadima-work-flow) will be added in the process
+3. Papers found manually and through ResearchRabbit matching the [inclusion and exclusion criteria](#Inclusion-and-exlusion-criteria) will be added in the process
 
 ### Results
 1. English search string (execution 24.8)
@@ -97,7 +97,8 @@ After creating a project matching your research design, in this case a systemati
 
 1. Uploade results from search engine search
 2. Match searches and delete Duplicates. Cadima offers a duplicate deletion function where you can double-check what will be deleted
-3. Define [Inclusion and exclusion criteria](#Inclusion-and-exlusion-criteria). You can first do a consistency check if wanted to check whether your defined criteria should be final. In this case, criteria for title screening and abstract and seperate criteria for fulltext screening were defined. 
+3. Define [Inclusion and exclusion criteria](#Inclusion-and-exlusion-criteria). You can first do a consistency check if wanted to check whether your defined criteria should be final. In this case, criteria for title screening and abstract and criteria for fulltext screening were defined.
+4. Apply the criteria, first title screening, then with papers left the abstract screening, then with papers left the fulltext screening
 
 
 ### Inclusion and exlusion criteria
@@ -112,5 +113,6 @@ For some criteria, only the title or even the abstract can not show whether the 
 - The data needs to be conducted in a climate zone similar to the German climate zone 
 
 2. Fulltext screening
+- The paper is peer-reviewed
+- Paper available open-access or through Uni Göttingen
 
-## Finishing the LR
