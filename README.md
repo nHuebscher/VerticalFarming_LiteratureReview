@@ -26,22 +26,28 @@ The literature review (LR) was performed following the steps in the guideline of
 
 ## Research Question, Design and Search Strings
 
-- *Research Question of the LR:* How sustainable is producing different goods in vertical farming in comparison to open-field farming in the same climate zone as Germany (assessed in life cycle assessments to measure the environmental impact)?
-- *Research Design for LR search*
-    - Life cycle assessments (LCAs) are preferred to answer the question of environmental sustainability in the research design, however, social and economic sustainability will be considered as well. Therefore a broad definition of sustainability in the search strings is needed
-    - Since there is not enough data for Germany, data from the same climate zone as Germany is considered (and explained in more detail in the following)
-    - The term "open-field farming" is sometimes also specified as "conventional farming" or other versions. However, in English, for only the term "farming" there are to many results that do not fit the research design. In German, the term "Landwirtschaft" is fitting.
-- *Search Strings*
-    - English: ("Life Cycle Assessment" OR Sustainability OR Sustainable) AND ("Conventional farming“ OR "organic farming" OR "open-field farming") AND ("Vertical Farming" OR "Vertical Farm" OR "Plant Factory")
-    - German: (Nachhaltigkeit OR Nachhaltig) AND Landwirtschaft AND ("Vertical farming" OR "Vertical Farm")
+**Research Question of the LR**
+How sustainable is producing different goods in vertical farming in comparison to open-field farming in the same climate zone as Germany (assessed in life cycle assessments to measure the environmental impact)?
+
+**Research Design for LR search**
+- Life cycle assessments (LCAs) are preferred to answer the question of environmental sustainability in the research design, however, social and economic sustainability will be considered as well. Therefore a broad definition of sustainability in the search strings is needed
+- Since there is not enough data for Germany, data from the same climate zone as Germany is considered (and explained in more detail in the following)
+- The term "open-field farming" is sometimes also specified as "conventional farming" or other versions. However, in English, for only the term "farming" there are to many results that do not fit the research design. In German, the term "Landwirtschaft" is fitting.
+
+**Search Strings**
+- English: ("Life Cycle Assessment" OR Sustainability OR Sustainable) AND ("Conventional farming“ OR "organic farming" OR "open-field farming") AND ("Vertical Farming" OR "Vertical Farm" OR "Plant Factory")
+- German: (Nachhaltigkeit OR Nachhaltig) AND Landwirtschaft AND ("Vertical farming" OR "Vertical Farm")
 
       
 ## Search Engine Results
 
-- *Manually added paper*
-    - manually, [Umweltbundesamt](https://www.umweltbundesamt.de/) and [OpenAgrar](https://www.openagrar.de/content/index.xml) were checked, 10 papers from OpenAgrar were added to Cadima
-    - Also, in the process and for example through ResearchRabbit, papers found manually matching the inclusion and exclusion criteria will be added in the process
-- *Results*
+**Manually added paper**
+Paper were added manually in three ways:
+1. [OpenAgrar](https://www.openagrar.de/content/index.xml) is a joint repository of different research institutes and others in the scope of the Federal Ministry of Food and Agriculture: 10 papers from OpenAgrar found to match the title screening criteria were added to Cadima
+2. [Umweltbundesamt](https://www.umweltbundesamt.de/) was checked, but papers matching the title screening criteria were already found in the Cadima database of matched searches
+3. Papers found manually and through ResearchRabbit matching the inclusion and exclusion criteria will be added in the process
+
+**Results**
 1. English search string (execution 24.8)
    
 | Search Engine  | Number of results | 
