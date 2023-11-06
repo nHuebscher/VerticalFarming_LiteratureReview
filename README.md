@@ -52,7 +52,7 @@ How sustainable is producing different goods in vertical farming in comparison t
 
 ### Manually added paper
 Paper were added manually in three ways:
-1. [OpenAgrar](https://www.openagrar.de/content/index.xml) is a joint repository of different research institutes and others in the scope of the Federal Ministry of Food and Agriculture: 10 papers from OpenAgrar found to match the [title screening criteria](#Inclusion-and-exlusion-criteria) were added to Cadima
+1. [OpenAgrar](https://www.openagrar.de/content/index.xml) is a joint repository of different research institutes and others in the scope of the Federal Ministry of Food and Agriculture: 10 papers from OpenAgrar found to match the title screening criteria were added to Cadima
 2. [Umweltbundesamt](https://www.umweltbundesamt.de/) was checked, but papers matching the title screening criteria were already found in the Cadima database of matched searches
 3. Papers found manually and through ResearchRabbit matching the [inclusion and exclusion criteria](#Inclusion-and-exlusion-criteria) will be added in the process
 
@@ -85,7 +85,7 @@ Note: Google scholar results were limited to 1000 by the tool Publish or Perish,
 | [Scopus](https://www.scopus.com/home.uri)    | 15    |
 | [ScienceDirect](https://www.sciencedirect.com/)      | 118     |
 | [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)      | 1     |
-| [OpenAgrar]((https://www.openagrar.de/content/index.xml)     | 10     |
+| [OpenAgrar](https://www.openagrar.de/content/index.xml)     | 10     |
 | Manually added    | 10     |
 
 Note: The manually added papers were already checked to match the [fulltext inclusion or exclusion criteria](#Inclusion-and-exlusion-criteria) and are not inserted in Cadima (yet)
