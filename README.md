@@ -29,7 +29,7 @@ The literature review (LR) was performed following the steps in the guideline of
 
 [4] C. Kohl et al., ‘Online tools supporting the conduct and reporting of systematic reviews and systematic maps: a case study on CADIMA and review of existing tools’, Environmental Evidence, vol. 7, no. 1, p. 8, Feb. 2018, doi: 10.1186/s13750-018-0115-5.
 
-[5] A.W. Harzing, ‘Publish or Perish’. 2007.  Available: https://harzing.com/resources/publish-or-perish
+[5] A.W. Harzing, ‘Publish or Perish’. 2007.  Available: [Online](https://harzing.com/resources/publish-or-perish)
 
 
 ## Research Question, Design and Search Strings
