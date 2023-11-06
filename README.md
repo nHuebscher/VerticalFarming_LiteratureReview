@@ -91,11 +91,11 @@ Note: Google scholar results were limited to 1000 by the tool Publish or Perish,
 Note: The manually added papers were already checked to match the [fulltext inclusion or exclusion criteria](#Inclusion-and-exlusion-criteria) and are not inserted in Cadima (yet)
 
 ## Cadima work flow
-Cadima is helpful to sort papers for a systematic literature review. If you want to have a closer look how Cadima is structured, you can find a trail version [here](https://test.cadima.info/index.php/area/evidenceSynthesisDatabase).
+Cadima is helpful to sort papers for a systematic literature review. If you want to have a closer look how Cadima is structured, you can find a trial version [here](https://test.cadima.info/index.php/area/evidenceSynthesisDatabase).
 
 After creating a project matching your research design, in this case a systematic literature review, the next steps are:
 
-1. Uploade results from search engine search
+1. Upload results from search engine search
 2. Match searches and delete Duplicates. Cadima offers a duplicate deletion function where you can double-check what will be deleted
 3. Define [Inclusion and exclusion criteria](#Inclusion-and-exlusion-criteria). You can first do a consistency check if wanted to check whether your defined criteria should be final. In this case, criteria for title screening and abstract and criteria for fulltext screening were defined.
 4. Apply the criteria, first title screening, then with papers left the abstract screening, then with papers left the fulltext screening
