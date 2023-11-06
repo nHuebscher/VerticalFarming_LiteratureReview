@@ -41,6 +41,7 @@ The literature review (LR) was performed following the steps in the guideline of
     - Also, in the process and for example through ResearchRabbit, papers found manually matching the inclusion and exclusion criteria will be added in the process
 - Results
 1. English search string (execution 24.8)
+   
 | Search Engine  | Number of results | 
 |:---------:|:---------:|
 | [Google Scholar](https://scholar.google.com/)      | 1000     |
@@ -51,6 +52,7 @@ The literature review (LR) was performed following the steps in the guideline of
 Note: Google scholar results were limited to 1000 by the tool Publish or Perish, the results used to be 1760
 
 2. German search string (execution 12.9)
+   
 | Search Engine  | Number of results | 
 |:---------:|:---------:|
 | [Google Scholar](https://scholar.google.com/)      | 191     |
@@ -59,6 +61,7 @@ Note: Google scholar results were limited to 1000 by the tool Publish or Perish,
 | [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)      | 0     |
 
 3. In Total
+   
 | Search Engine  | Number of results | 
 |:---------:|:---------:|
 | [Google Scholar](https://scholar.google.com/)      | 1191     |
