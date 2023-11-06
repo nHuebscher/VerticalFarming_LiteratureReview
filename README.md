@@ -3,9 +3,9 @@
 In this repository, you will find 
 - which [tools and sources](#tools-and-sources-used-for-the-literature-review) were used for the Literature Review
 - the [research question, design and search strings](#research-question-design-and-search-strings) used
-- the [search engine results](#search-engine-results), also uploaded as .csv file per search engine
+- the [search engine results](#search-engine-results), also uploaded as .ris file per search engine
 - in detail [how the tool Cadima was used](#cadima-work-flow)
-- the [inclusion and exclusion criteria](#inclusion-and-exlusion-criteria) for the title screening, the abstract screening and the fulltext screening and their results as .csv file per step
+- the [inclusion and exclusion criteria](#inclusion-and-exlusion-criteria) for the title screening, the abstract screening and the fulltext screening and their results as .ris file per step
 
 
 ## Tools and Sources used for the Literature review
