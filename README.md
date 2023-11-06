@@ -1,5 +1,13 @@
 # Resources for Systematic Literature Review on the Sustainability of Vertical Farming 
 
+In this repository, you will find 
+- which tools and sources were used for the Literature Review
+- the research question, design and search strings used
+- the search engine results, also uploaded as .csv file per search engine
+- in detail how the tool Cadima was used
+- the inclusion and exclusion details for the title screening, the abstract screening and the fulltext screening and their results as .csv file per step
+
+
 ## Tools and Sources used for the Literature review
 
 The literature review (LR) was performed following the steps in the guideline of Silva and Neiva [1]. Inspired by [2], a few research tools were used for organizing and searching.
@@ -26,28 +34,29 @@ The literature review (LR) was performed following the steps in the guideline of
 
 ## Research Question, Design and Search Strings
 
-**Research Question of the LR**
+### Research Question of the LR
 How sustainable is producing different goods in vertical farming in comparison to open-field farming in the same climate zone as Germany (assessed in life cycle assessments to measure the environmental impact)?
 
-**Research Design for LR search**
+### Research Design for LR search
 - Life cycle assessments (LCAs) are preferred to answer the question of environmental sustainability in the research design, however, social and economic sustainability will be considered as well. Therefore a broad definition of sustainability in the search strings is needed
 - Since there is not enough data for Germany, data from the same climate zone as Germany is considered (and explained in more detail in the following)
 - The term "open-field farming" is sometimes also specified as "conventional farming" or other versions. However, in English, for only the term "farming" there are to many results that do not fit the research design. In German, the term "Landwirtschaft" is fitting.
+- The search was limited to papers published in or later than 2017
 
-**Search Strings**
+### Search Strings
 - English: ("Life Cycle Assessment" OR Sustainability OR Sustainable) AND ("Conventional farming“ OR "organic farming" OR "open-field farming") AND ("Vertical Farming" OR "Vertical Farm" OR "Plant Factory")
 - German: (Nachhaltigkeit OR Nachhaltig) AND Landwirtschaft AND ("Vertical farming" OR "Vertical Farm")
 
       
 ## Search Engine Results
 
-**Manually added paper**
+### Manually added paper
 Paper were added manually in three ways:
-1. [OpenAgrar](https://www.openagrar.de/content/index.xml) is a joint repository of different research institutes and others in the scope of the Federal Ministry of Food and Agriculture: 10 papers from OpenAgrar found to match the title screening criteria were added to Cadima
+1. [OpenAgrar](https://www.openagrar.de/content/index.xml) is a joint repository of different research institutes and others in the scope of the Federal Ministry of Food and Agriculture: 10 papers from OpenAgrar found to match the [title screening criteria](#Cadima-work-flow) were added to Cadima
 2. [Umweltbundesamt](https://www.umweltbundesamt.de/) was checked, but papers matching the title screening criteria were already found in the Cadima database of matched searches
-3. Papers found manually and through ResearchRabbit matching the inclusion and exclusion criteria will be added in the process
+3. Papers found manually and through ResearchRabbit matching the [inclusion and exclusion criteria](#Cadima-work-flow) will be added in the process
 
-**Results**
+### Results
 1. English search string (execution 24.8)
    
 | Search Engine  | Number of results | 
@@ -79,17 +88,29 @@ Note: Google scholar results were limited to 1000 by the tool Publish or Perish,
 | [OpenAgrar]((https://www.openagrar.de/content/index.xml)     | 10     |
 | Manually added    | 10     |
 
-Note: The manually added papers were already checked to match the inclusion or exclusion criteria and are not inserted in Cadima (yet)
+Note: The manually added papers were already checked to match the [fulltext inclusion or exclusion criteria](#Inclusion-and-exlusion-criteria) and are not inserted in Cadima (yet)
 
 ## Cadima work flow
-Cadima is helpful organizing and rating a huge amount of papers. If you want to have a closer look how Cadima is structured, you can find a trail version [here](https://test.cadima.info/index.php/area/evidenceSynthesisDatabase).
+Cadima is helpful to sort papers for a systematic literature review. If you want to have a closer look how Cadima is structured, you can find a trail version [here](https://test.cadima.info/index.php/area/evidenceSynthesisDatabase).
 
 After creating a project matching your research design, in this case a systematic literature review, the next steps are:
 
-1. Step: Uploading results from search engine search
-2. Defining Inclusion and exclusion criteria
-- Title screening
-- Abstract screening
-- Fulltext screening
+1. Uploade results from search engine search
+2. Match searches and delete Duplicates. Cadima offers a duplicate deletion function where you can double-check what will be deleted
+3. Define [Inclusion and exclusion criteria](#Inclusion-and-exlusion-criteria). You can first do a consistency check if wanted to check whether your defined criteria should be final. In this case, criteria for title screening and abstract and seperate criteria for fulltext screening were defined. 
+
+
+### Inclusion and exlusion criteria
+For some criteria, only the title or even the abstract can not show whether the paper actually fulfills the criteria, therefore the criteria in the fulltext screening are the same as in title and abstract screening with a the mentioned criteria added.
+
+1. Title and Abstract screening
+- The language should be either German or English
+- The paper should deal with vertical farming matching a pre-set definition
+- Year of study >= 2017
+- The paper should deal with LCA or sustainability assessment matching a pre-set definition
+- The paper should deal with open-field farming matching a pre-set definition
+- The data needs to be conducted in a climate zone similar to the German climate zone 
+
+2. Fulltext screening
 
 ## Finishing the LR
