@@ -42,6 +42,7 @@ How sustainable is producing different goods in vertical farming in comparison t
 - Since there is not enough data for Germany, data from the same climate zone as Germany is considered (and explained in more detail in the following)
 - The term "open-field farming" is sometimes also specified as "conventional farming" or other versions. However, in English, for only the term "farming" there are to many results that do not fit the research design. In German, the term "Landwirtschaft" is fitting.
 - The search was limited to papers published in or later than 2017
+- Plant Factory is found to be a term mostly used in asian papers and therefore included in the English search string
 
 ### Search Strings
 - English: ("Life Cycle Assessment" OR Sustainability OR Sustainable) AND ("Conventional farming“ OR "organic farming" OR "open-field farming") AND ("Vertical Farming" OR "Vertical Farm" OR "Plant Factory")
@@ -57,7 +58,7 @@ Paper were added manually in three ways:
 3. Papers found manually and through ResearchRabbit matching the [inclusion and exclusion criteria](#Inclusion-and-exlusion-criteria) will be added in the process
 
 ### Results
-1. English search string (execution 24.8)
+1. English search string (execution 24.08.2023)
    
 | Search Engine  | Number of results | 
 |:---------:|:---------:|
@@ -68,7 +69,7 @@ Paper were added manually in three ways:
 
 Note: Google scholar results were limited to 1000 by the tool Publish or Perish, the results used to be 1760
 
-2. German search string (execution 12.9)
+2. German search string (execution 12.09.2023)
    
 | Search Engine  | Number of results | 
 |:---------:|:---------:|
@@ -115,4 +116,7 @@ For some criteria, only the title or even the abstract can not show whether the 
 2. Fulltext screening
 - The paper is peer-reviewed
 - Paper available open-access or through Uni Göttingen
+
+## Next steps
+Right now: fulltext screening
 
