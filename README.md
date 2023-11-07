@@ -99,11 +99,14 @@ After creating a project matching your research design, in this case a systemati
 1. Upload results from search engine search
 2. Match searches and delete Duplicates. Cadima offers a duplicate deletion function where you can double-check what will be deleted
 3. Define [Inclusion and exclusion criteria](#Inclusion-and-exlusion-criteria). You can first do a consistency check if wanted to check whether your defined criteria should be final. In this case, criteria for title screening and abstract and criteria for fulltext screening were defined.
-4. Apply the criteria, first title screening, then with papers left the abstract screening, then with papers left the fulltext screening
+4. Apply the criteria
+- first title screening
+- then with papers left (132) the abstract screening
+- then with papers left (57) the fulltext screening
 
 
 ### Inclusion and exlusion criteria
-For some criteria, only the title or even the abstract can not show whether the paper actually fulfills the criteria, therefore the criteria in the fulltext screening are the same as in title and abstract screening with a the mentioned criteria added.
+For some criteria, only the title or even the abstract can not show whether the paper actually fulfills the criteria, therefore the criteria in the fulltext screening are the same as in title and abstract screening with the mentioned criteria added.
 
 1. Title and Abstract screening
 - The language should be either German or English
