@@ -101,8 +101,8 @@ After creating a project matching your research design, in this case a systemati
 3. Define [Inclusion and exclusion criteria](#Inclusion-and-exlusion-criteria). You can first do a consistency check if wanted to check whether your defined criteria should be final. In this case, criteria for title screening and abstract and criteria for fulltext screening were defined.
 4. Apply the criteria
 - first title screening
-- then with papers left (132) the abstract screening
-- then with papers left (57) the fulltext screening
+- then with papers left (132, see title_screening_outcome.xlsx) the abstract screening
+- then with papers left (57, see Cadima_abstract_screening.csv) the fulltext screening
 
 
 ### Inclusion and exlusion criteria
