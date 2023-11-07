@@ -39,7 +39,7 @@ How sustainable is producing different goods in vertical farming in comparison t
 
 ### Research Design for LR search
 - Life cycle assessments (LCAs) are preferred to answer the question of environmental sustainability in the research design, however, social and economic sustainability will be considered as well. Therefore a broad definition of sustainability in the search strings is needed
-- Since there is not enough data for Germany, data from the same climate zone as Germany is considered (and explained in more detail in the following)
+- Since there is not enough data for Germany, data from the same climate zone as Germany is considered (for more detail, see [Köppen-Geiger Climate classification](https://www.gloh2o.org/koppen/))
 - The term "open-field farming" is sometimes also specified as "conventional farming" or other versions. However, in English, for only the term "farming" there are to many results that do not fit the research design. In German, the term "Landwirtschaft" is fitting.
 - The search was limited to papers published in or later than 2017
 - Plant Factory is found to be a term mostly used in asian papers and therefore included in the English search string
