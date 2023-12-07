@@ -87,7 +87,7 @@ Note: Google scholar results were limited to 1000 by the tool Publish or Perish,
 | [ScienceDirect](https://www.sciencedirect.com/)      | 118     |
 | [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)      | 1     |
 | [OpenAgrar](https://www.openagrar.de/content/index.xml)     | 10     |
-| Manually added    | 10     |
+| Manually added    | 7     |
 
 Note: The manually added papers were already checked to match the [fulltext inclusion or exclusion criteria](#Inclusion-and-exlusion-criteria) and added in Cadima
 
