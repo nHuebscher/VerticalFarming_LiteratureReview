@@ -3,9 +3,9 @@
 In this repository, you will find 
 - which [tools and sources](#tools-and-sources-used-for-the-literature-review) were used for the Literature Review
 - the [research question, design and search strings](#research-question-design-and-search-strings) used
-- the [search engine results](#search-engine-results), also uploaded as .ris file per search engine
+- the [search engine results](#search-engine-results), also uploaded as .csv file per search engine
 - in detail [how the tool Cadima was used](#cadima-work-flow)
-- the [inclusion and exclusion criteria](#inclusion-and-exlusion-criteria) for the title screening, the abstract screening and the fulltext screening and their results as .xlsx file per step
+- the [inclusion and exclusion criteria](#inclusion-and-exlusion-criteria) for the title screening, the abstract screening and the fulltext screening and their results as .xlsx or .csv file
 
 
 ## Tools and Sources used for the Literature review
@@ -55,7 +55,7 @@ How sustainable is producing different goods in vertical farming in comparison t
 Paper were added manually in three ways:
 1. [OpenAgrar](https://www.openagrar.de/content/index.xml) is a joint repository of different research institutes and others in the scope of the Federal Ministry of Food and Agriculture: 10 papers from OpenAgrar found to match the title screening criteria were added to Cadima
 2. [Umweltbundesamt](https://www.umweltbundesamt.de/) was checked, but papers matching the title screening criteria were already found in the Cadima database of matched searches
-3. Papers found manually and through ResearchRabbit matching the [inclusion and exclusion criteria](#Inclusion-and-exlusion-criteria) will be added in the process
+3. Papers found manually and through ResearchRabbit matching the [inclusion and exclusion criteria](#Inclusion-and-exlusion-criteria) were added in the process
 
 ### Results
 1. English search string (execution 24.08.2023)
@@ -89,7 +89,7 @@ Note: Google scholar results were limited to 1000 by the tool Publish or Perish,
 | [OpenAgrar](https://www.openagrar.de/content/index.xml)     | 10     |
 | Manually added    | 10     |
 
-Note: The manually added papers were already checked to match the [fulltext inclusion or exclusion criteria](#Inclusion-and-exlusion-criteria) and are not inserted in Cadima (yet)
+Note: The manually added papers were already checked to match the [fulltext inclusion or exclusion criteria](#Inclusion-and-exlusion-criteria) and added in Cadima
 
 ## Cadima work flow
 Cadima is helpful to sort papers for a systematic literature review. If you want to have a closer look how Cadima is structured, you can find a trial version [here](https://test.cadima.info/index.php/area/evidenceSynthesisDatabase).
@@ -119,7 +119,4 @@ For some criteria, only the title or even the abstract can not show whether the 
 2. Fulltext screening
 - The paper is peer-reviewed
 - Paper available open-access or through Uni Göttingen
-
-## Next steps
-Right now: fulltext screening
 
