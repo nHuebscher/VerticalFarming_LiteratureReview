@@ -117,6 +117,5 @@ For some criteria, only the title or even the abstract can not show whether the 
 - The data needs to be conducted in a climate zone similar to the German climate zone 
 
 2. Fulltext screening
-- The paper is peer-reviewed
 - Paper available open-access or through Uni Göttingen
 
