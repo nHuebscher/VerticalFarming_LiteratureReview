@@ -35,7 +35,8 @@ The literature review (LR) was performed following the steps in the guideline of
 ## Research Question, Design and Search Strings
 
 ### Research Question of the LR
-How sustainable is producing different goods in vertical farming in comparison to open-field farming in the same climate zone as Germany (assessed in life cycle assessments to measure the environmental impact)?
+- Main research question: How vertical farming can contribute to a more sustainable and resilient food system in Germany?
+  - subquestion for LR: How does VF perform regarding social, economic and environmental sustainability producing different goods in vertical farming in comparison to open-field farming in the same climate zone as Germany (assessed in life cycle assessments to measure the environmental impact)?
 
 ### Research Design for LR search
 - the search engines [Google Scholar](https://scholar.google.com/), [Scopus](https://www.scopus.com/home.uri), [ScienceDirect](https://www.sciencedirect.com/) and [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)    were chosen being main search engines providing researches in the area of Computer Science [1] and interdisciplinary knowledge.
