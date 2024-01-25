@@ -38,6 +38,7 @@ The literature review (LR) was performed following the steps in the guideline of
 How sustainable is producing different goods in vertical farming in comparison to open-field farming in the same climate zone as Germany (assessed in life cycle assessments to measure the environmental impact)?
 
 ### Research Design for LR search
+- the search engines [Google Scholar](https://scholar.google.com/), [Scopus](https://www.scopus.com/home.uri), [ScienceDirect](https://www.sciencedirect.com/) and [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)    were chosen being main search engines providing researches in the area of Computer Science [1] and interdisciplinary knowledge.
 - Life cycle assessments (LCAs) are preferred to answer the question of environmental sustainability in the research design, however, social and economic sustainability will be considered as well. Therefore a broad definition of sustainability in the search strings is needed
 - Since there is not enough data for Germany, data from the same climate zone as Germany is considered (for more detail, see [Köppen-Geiger Climate classification](https://www.gloh2o.org/koppen/))
 - The term "open-field farming" is sometimes also specified as "conventional farming" or other versions. However, in English, for only the term "farming" there are to many results that do not fit the research design. In German, the term "Landwirtschaft" is fitting.
