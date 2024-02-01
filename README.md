@@ -6,6 +6,7 @@ In this repository, you will find
 - the [search engine results](#search-engine-results), also uploaded as .csv file per search engine
 - in detail [how the tool Cadima was used](#cadima-work-flow)
 - the [inclusion and exclusion criteria](#inclusion-and-exlusion-criteria) for the title screening, the abstract screening and the fulltext screening and their results as .xlsx or .csv file
+- the data used for the LCA comparison in the thesis as .xlsx file (VF_LCA_comparison)
 
 
 ## Tools and Sources used for the Literature review
